@@ -29,6 +29,17 @@ the site contains 3 main sections are as follow :<br/>
  Viewing all users<br/>
  transfering money<br/>
  Viewing transaction history<br/>
+ 
+ ### Viewing all users
+ in this section, i had created the information about all the users which i had stored it in a MySQL database. The users information contains its name, email, balance and section for the operation <br/>
+ 
+ ### Transfering amount 
+ the users information contains the proceed opration button, when it get hitted it shows from which account you are transfering and need to chose targeted account to which you want to send money with the amount.<br/>
+ 
+ ### Transaction history
+ if transaction is done between two persons, then their transaction history is stored in this page<br/>
+ 
+ 
 
 
 
