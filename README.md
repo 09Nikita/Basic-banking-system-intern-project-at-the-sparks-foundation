@@ -18,6 +18,17 @@ Home page have sliding background images created using carousel<br/>
 Each page contains a footer part with about, contact and social media handles section<br/>
 Navigation arrow is created.When user moves 20px downwards,the navigation arrow gets activated<br/>
 
+## Pages contains :
+about.php - contains code of about-me page<br/>
+cofig.php - it connects the pages to database<br/>
+contact.php - it contains code of contact details page<br/>
+footer.php - contains code of footer section<br/>
+index.php - its a home page contains websites body<br/>
+nav.php - contains code of navigation<br/>
+s_bank.sql - its a database which stored users dummy data<br/>
+selectuserdetails.php - contains users information code<br/>
+userinfo.php - connects to database to stores contact details<br/>
+
 ## Process :
 Make html files of each page and interconnecting them using proper page address<br/>
 add css properties<br/>
@@ -39,7 +50,8 @@ the site contains 3 main sections are as follow :<br/>
  ### Transaction history
  if transaction is done between two persons, then their transaction history is stored in this page<br/>
  
- 
+ ## Conclusion :
+ Thus created a website which performs the transaction between multiple users and stores the transaction history in the transaction history table of database.
 
 
 
